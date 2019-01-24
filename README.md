@@ -1,5 +1,6 @@
 # Instagram Caption Scraper URL Python
 Scrape Instagram captions from public posts by URL in Python
+<p align="left"><a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a></p>
 
 ## Getting Started
 
