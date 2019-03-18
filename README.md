@@ -1,9 +1,5 @@
 # Instagram Caption Scraper URL Python
-Scrape Instagram captions from public posts by URL in Python
-
-## Getting Started
-
-Example script on how to extract Instagram Captions from public posts.
+Scrape Instagram captions from public posts by url in Python
 
 ### Requirements
 
