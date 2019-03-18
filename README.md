@@ -12,7 +12,7 @@ Example script on how to extract Instagram Captions from public posts.
 
 ## Authors
 
-* **Emanuel Dinssa** - *Initial work* - [EmanuelDinssa](https://github.com/EmanuelDinssa)
+* **[EmanuelDinssa](https://github.com/EmanuelDinssa)**
 
 ## License
 
